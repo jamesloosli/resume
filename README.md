@@ -6,7 +6,7 @@
 
 At heart, I am happiest when I'm building. I've been writing Infrastructure-as-Code nearly my entire career, and believe strongly in the transformative power of applying software development principles to infrastructure problems. I'm passionate about finding the solution that gets code to production in a repeatable way, while also allowing for future improvement and iteration of the solution itself. I'll learn whatever tooling I need to get a job done, but have a strong preference for Python, Gitlab, and Docker as my preferred arsenal. I find working with people to use the tools I've built to create new solutions and solve business problems to be even more rewarding than the initial individual contribution phase. I've also come to really enjoy mentoring junior engineers and peers both technically and in their career growth.
 
-## Where' I've Been
+## Where I've Been
                           
 **Lead Solutions Architect | Rackspace, formerly Onica | 03/2018 – Current**
   * Team lead for 6 Solution Architects and Engineers
