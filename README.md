@@ -1,6 +1,6 @@
 # James Loosli
 
-[Linkedin](https://www.linkedin.com/in/jamesloosli/)|Github](https://github.com/jamesloosli)
+[Linkedin](https://www.linkedin.com/in/jamesloosli/) | [Github](https://github.com/jamesloosli)
 
 ## Who Am I
 
